@@ -2,7 +2,7 @@
 
 Для OpenCart 1.5 (TPL синтаксис)
 В поле "Описание" можно скопировать/вставить содержимое файла:
-description_ex.tp1
+description_ex.tpl
 
 
 Для OpenCart 3.0 (Twig синтаксис)
